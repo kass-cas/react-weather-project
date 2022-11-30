@@ -6,7 +6,11 @@ export default function App() {
     <div className="App">
       <h1>Hello World</h1>
       <footer>
-        <a href="https://github.com/kass-cas/react-weather-project">
+        <a
+          href="https://github.com/kass-cas/react-weather-project"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open-source code
         </a>{" "}
         by Kassandra Castillo
