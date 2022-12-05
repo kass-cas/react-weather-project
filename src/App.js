@@ -15,7 +15,7 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Open-source code
+            Open-source code on GitHub
           </a>{" "}
           by Kassandra Castillo
         </footer>
