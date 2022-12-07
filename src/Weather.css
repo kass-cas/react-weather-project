@@ -48,4 +48,5 @@
 .Weather .units {
   position: relative;
   font-size: 16px;
+  top: -34px;
 }
